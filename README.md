@@ -53,7 +53,8 @@ Manuel Cerón
 
 ## Ejemplo de interfaz
 
-![Vista previa de la aplicación](https://manuelceron.github.io/challange_amigo_secreto/)
+
+https://manuelceron.github.io/challange_amigo_secreto/
 
 ## Contribuir al proyecto
 
